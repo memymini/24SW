@@ -10,6 +10,6 @@ student_name = input("이름을 입력하세요: ")
 student_major = input("학과를 입력하세요: ")
 
 # 결과 출력
-print("입력한 학번:", student_id)
-print("입력한 이름:", student_name)
-print("입력한 학과:", student_major)
+print("입력한 학번: ", student_id)
+print("입력한 이름: ", student_name)
+print("입력한 학과: ", student_major)
